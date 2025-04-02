@@ -30,7 +30,7 @@ A simple weather application that fetches real-time weather data based on user i
 3. View temperature, humidity, and other weather information.
 
 ## 🖼️ Screenshot
-![Weather App Screenshot]([screenshot.png](https://github.com/Amine6363/WeatherApp/blob/d87b6d3b670dc615a803532a8817732aa6b41259/screenshot.png))
+![Weather App Screenshot](https://raw.githubusercontent.com/Amine6363/WeatherApp/main/screenshot.png)
 
 ## 📜 License
 This project is licensed under the MIT License.
