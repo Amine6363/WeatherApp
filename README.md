@@ -29,6 +29,9 @@ A simple weather application that fetches real-time weather data based on user i
 2. Press "Search" to fetch weather details.
 3. View temperature, humidity, and other weather information.
 
+## 🖼️ Screenshot
+![Weather App Screenshot](screenshot.png)
+
 ## 📜 License
 This project is licensed under the MIT License.
 
